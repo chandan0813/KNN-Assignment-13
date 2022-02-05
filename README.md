@@ -1,6 +1,6 @@
 # KNN-Assignment-13
 
-KNN-Assignment-13(1)
+KNN-Assignment-13-(1)
 
 Prepare a model for glass classification using KNN
 
